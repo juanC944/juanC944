@@ -4,7 +4,7 @@
 Skills Tech
 Adobe XD / Figma/ 
 VS Code / HTML / CSS/ JavaScript/
-Trello / Coogle / GitHub/
+Trello / Coogle / GitHub
 
 Adobe Creative Suite:
 /Illustrator / Photoshop / Bridge / Lightroom/
