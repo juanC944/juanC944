@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanC944
-- Hola, soy Diseñador Gráfico con más de 5 años de experiencia, me desarrollo también como diseñador UX/UI Jr, área en la que sigo creciendo y aprendiendo.
+- Hola, soy Diseñador Gráfico con más de 5 años de experiencia, me desarrollo también como diseñador UX/UI, área en la que sigo creciendo y aprendiendo.
 
 Skills Tech
 Adobe XD / Figma/ 
